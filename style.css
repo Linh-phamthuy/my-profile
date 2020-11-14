@@ -1,8 +1,21 @@
+.card-white {
+	background-color: #f9f7cf;
+	padding: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	margin: 20px 0px;
+	text-align:center;
+}
+
+.div {
+	display:block;
+}
+
 body {
-	background-color: #f4f4f4;
-	color: #797a7e;
-	font-family: 'Indie Flower', cursive;
-	font-weight: 600;
+	background-color: #f2dcbb;
+	color: #797a7e;	
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
 }
 
 h1, h2, h3 {
