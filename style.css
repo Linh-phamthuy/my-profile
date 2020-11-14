@@ -1,12 +1,16 @@
+.container {
+	width: 800px;
+	margin: 40px auto;
+}
 .card-white {
 	background-color: #f9f7cf;
-	width: 50%;
 	padding: 50px;
 	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
 	border-radius: 10px;
 	margin: 20px 0px;
 	text-align:center;
 }
+
 
 .div {
 	display:block;
@@ -29,7 +33,9 @@ a:hover {
 	color: #056674;
 }
 
-.list-inline i {
+.list-inline {
+	list-style:none;
+	padding-left:0px;
     font-size: 50px;
     color: #f2dcbb;
 }
