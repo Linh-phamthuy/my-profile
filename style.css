@@ -23,25 +23,8 @@ h1, h2, h3 {
 	font-weight: bolder;
 }
 
-h1 {
-	color: #557571;
-	font-size: 30px;
-}
 
-h2 {
-	color: rgb(100,100,100);
-	font-size: 30px;
-}
-a {
-	text-decoration: none;
-	color: #d49a89;
-}
 a:hover {
 	color: #056674;
 }
 
-div{
-	background: white;
-	border: 1px solid black;
-	margin: 10px;
-}
