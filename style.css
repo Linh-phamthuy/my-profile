@@ -3,7 +3,7 @@
 }
 
 .container {
-	width: 300px;
+	width: 500px;
 	margin: 0px auto;
 	position: justify;
 }
@@ -21,7 +21,7 @@
 }
 
 body {
-	background-color: #f4f4f4;
+	background-color: #fceef5;
 	color: #797a7e;	
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 20px;
