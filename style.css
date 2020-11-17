@@ -46,10 +46,10 @@ a:hover {
     font-size: 50px;
     color: #000000;
 }
-.fa-facebook-square:before {
+.fab fa-facebook-square:before {
     content: "\f082";
 }
 
-.fa-instagram-square:before {
+.fab fa-instagram-square:before {
     content: "\e055";
 }
