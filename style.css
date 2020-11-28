@@ -8,7 +8,7 @@
 	position: justify;
 }
 .card-white {
-	background-color: #b9d7ea;
+	background-color: #fff8cd;
 	padding: 30px;
 	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
 	border-radius: 4px;
@@ -22,7 +22,7 @@
 }
 
 body {
-	background-color: #f6f5f1;
+	background-color: #ffe05d;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 20px;
 	font-color: #000000;
@@ -40,17 +40,4 @@ a:hover {
 	color: #056674;
 }
 
-.list-inline {
-	  align-items: center;
-	list-style:none;
-	padding-left:0px;
-    font-size: 50px;
-    color: #000000;
-}
-.fab fa-facebook-square:before {
-    content: "\f082";
-}
 
-.fab fa-instagram-square:before {
-    content: "\e055";
-}
